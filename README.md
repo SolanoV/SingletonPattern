@@ -9,5 +9,5 @@ This queuing system ensures a single centralized queue number for all help desk 
 
 This approach aims to maintain an organized queuing process for individuals visiting the office and provides the flexibility to handle queue adjustments as needed.
 
-#### UML Class Diagram
+## UML Class Diagram
 ![Singleton Pattern UML Class Diagram](SINGLETON_UMLCD.png)
